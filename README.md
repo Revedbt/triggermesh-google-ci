@@ -1,2 +1,2 @@
 # triggermesh-google-ci
-CI docker image with TriggerMesh and Google Cloud CLI installed
+CI docker image with TriggerMesh, Google Cloud CLI, Helm, and KubeCTL installed.
